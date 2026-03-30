@@ -1,3 +1,5 @@
+# PRD GENERATOR - Interactive Demo & iWiki Publish
+
 【产品经理福音(^▽^)】该技能主要协助产品经理输出PRD文档，通过"PRD生成"关键词触发，确认需求信息，即可一键生成完整PRD文档 + 可交互HTML原型 ，并且支持一键发布到iWiki。
 
 ---
